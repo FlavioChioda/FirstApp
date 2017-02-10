@@ -4,5 +4,6 @@
     <string name="stitle">Sottotitolo</string>
     <string name="data">08/02/2017</string>
     <string name="button1">Premi</string>
+    <string name="login_success">Logged in Successfully</string>
     <string name="lorem1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam laoreet a nibh id tempor. Curabitur a ornare libero. Etiam vel turpis enim. Fusce quis arcu orci. Nunc nec quam lacus. Proin quis elementum est, in blandit velit. Nunc at velit ac nibh dapibus dictum.</string>
 </resources>
